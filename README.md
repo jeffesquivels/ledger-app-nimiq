@@ -1,3 +1,7 @@
+# Deprecation notice
+
+The official repository for Nimiq's Ledger App has been moved into the `nimiq-network` organization, you can access it [here](https://github.com/nimiq-network/blue-app-nimiq).
+
 # Nimiq app for the Ledger Nano S and Ledger Blue
 
 ## Introduction
